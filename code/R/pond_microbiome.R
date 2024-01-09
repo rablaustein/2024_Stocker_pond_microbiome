@@ -12,15 +12,9 @@
 library(SCRuB)
 library(ggplot2)
 library(vegan)
-#library(gplots)
 library(reshape2)
 library(gridExtra)
-#library(tidyverse)
-#library(corrr)
-#library(ggraph)
-#library(curl)
-#library(devtools)
-#library(scales)
+
 
 ###
 ### load files
